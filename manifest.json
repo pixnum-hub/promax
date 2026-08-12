@@ -1,7 +1,7 @@
 {
   "name": "Promax — AI Prompt Library",
   "short_name": "Promax",
-  "description": "A searchable library of 14,000+ AI prompts across 64 categories, with favorites and your own custom prompts.",
+  "description": "A searchable library of 16,100+ AI prompts across 114 categories, with favorites and your own custom prompts.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
